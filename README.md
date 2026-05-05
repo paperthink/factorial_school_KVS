@@ -30,3 +30,5 @@ factorial of n or n! = n x (n-1) x (n-2) x (n-i), where i = upto last point
 ---
 
 **Algorithm before code**
+<br>
+![alt text](image.png)
