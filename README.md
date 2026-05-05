@@ -1,4 +1,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paperthink)
+<br>
+![Built by Pratyush](https://img.shields.io/badge/Built%20by-PratyushSaha-orange?style=for-the-badge&logo=rocket)
 
 # Factorial of a number
 ## Using Python 3.14
