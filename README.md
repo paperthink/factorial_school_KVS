@@ -42,3 +42,8 @@ factorial of n or n! = n x (n-1) x (n-2) x (n-i), where i = upto last point
 <br><br>
 
 ![alt text](image-2.png)
+<br><br>
+
+**Code Concepts used here**
+<br><br>
+-> while loops
