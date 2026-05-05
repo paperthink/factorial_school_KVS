@@ -33,4 +33,4 @@ factorial of n or n! = n x (n-1) x (n-2) x (n-i), where i = upto last point
 
 <br>
 
-![alt text](image.png)
+![alt text](image-1.png)
