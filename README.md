@@ -8,3 +8,4 @@
 <br><br>
 2. (Optional) Use an IDE
 3. (Optional) Install Pandas to view the dataframe
+4. ~~Knowledge of Factorial~~ (Not necessary)
