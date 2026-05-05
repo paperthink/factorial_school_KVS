@@ -9,3 +9,12 @@
 2. (Optional) Use an IDE
 3. (Optional) Install Pandas to view the dataframe
 4. ~~Knowledge of Factorial~~ (Not necessary)
+
+
+---
+
+### Concept of Factorial
+
+Let n be a number, 
+<br>
+factorial of n or n! = n x (n-1) x (n-2) x (n-i), where i = upto last point
