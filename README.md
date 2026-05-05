@@ -55,7 +55,7 @@ factorial of n or n! = n x (n-1) x (n-2) x (n-i), where i = upto last point
 **Student of Kendriya Vidyalaya Sangathan**
 <br>
 
-![alt text](image-3.png)
+![School](kendriya_Vidyalaya_sangathan.png)
 
 <br><br>
 
